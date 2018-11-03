@@ -25,3 +25,8 @@ Clear Element 是一个谷歌扩展程序它可以让你移除那些你不想看
   1. popup页面上的操作如何保存？
   2. content_scripts如何修改当前页面的信息？
   3. popup页面和content_script之间如何进行数据传递？
+
+## 4. 一些截图
+  ![Image text](https://raw.githubusercontent.com/BenGuo1987/clear-element/master/images/guide/1.jpg)
+  ![Image text](https://raw.githubusercontent.com/BenGuo1987/clear-element/master/images/guide/2.jpg)
+  ![Image text](https://raw.githubusercontent.com/BenGuo1987/clear-element/master/images/guide/3.jpg)
