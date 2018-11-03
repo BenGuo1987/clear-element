@@ -14,14 +14,14 @@ Clear Element 是一个谷歌扩展程序它可以让你移除那些你不想看
   - **Google翻译**
 
 ## 2. 一些概念
-  ### [menifest文件](https://developer.chrome.com/extensions/manifest)
-  ### [browser_action](https://developer.chrome.com/extensions/browserAction)
-  ### [page_action](https://developer.chrome.com/extensions/pageAction)
-  ### [default_popup](https://developer.chrome.com/extensions/browserAction#popups)
-  ### [content_scripts](https://developer.chrome.com/extensions/content_scripts)
-  ### [permissions](https://developer.chrome.com/extensions/declare_permissions)
+  1. [menifest文件](https://developer.chrome.com/extensions/manifest)
+  2. [browser_action](https://developer.chrome.com/extensions/browserAction)
+  3. [page_action](https://developer.chrome.com/extensions/pageAction)
+  4. [default_popup](https://developer.chrome.com/extensions/browserAction#popups)
+  5. [content_scripts](https://developer.chrome.com/extensions/content_scripts)
+  6. [permissions](https://developer.chrome.com/extensions/declare_permissions)
 
 ## 3. 一些思考
-  ### 1. popup页面上的操作如何保存？
-  ### 2. content_scripts如何修改当前页面的信息？
-  ### 3. popup页面和content_script之间如何进行数据传递？
+  1. popup页面上的操作如何保存？
+  2. content_scripts如何修改当前页面的信息？
+  3. popup页面和content_script之间如何进行数据传递？
